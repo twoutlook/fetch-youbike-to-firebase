@@ -1,0 +1,20 @@
+{
+  "name": "h1",
+  "version": "1.0.0",
+  "engines": {
+    "node": "4.2.2"
+  },
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^2.3.2",
+    "node-schedule": "^0.6.0",
+    "request": "^2.67.0",
+    "zlib": "^1.0.5"
+  }
+}
